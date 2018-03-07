@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3in"
+   height="2in"
+   viewBox="0 0 76.200001 50.800001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="trains-trans-flag-inkscape.svg"
+   inkscape:export-filename="/home/sky/pics/trains-trans-flag/trains-trans-flag.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="-24.72696"
+     inkscape:cy="66.60002"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     units="in"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-paths="true"
+     inkscape:window-width="1916"
+     inkscape:window-height="1052"
+     inkscape:window-x="1366"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid853"
+       units="in"
+       spacingx="2.54"
+       spacingy="2.54" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Background">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.68398893;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect821-3-6"
+       width="76.199997"
+       height="50.799999"
+       x="0"
+       y="7.1054274e-15" />
+  </g>
+  <g
+     inkscape:label="Lines"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-246.19998)"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:#f5a9b8;fill-opacity:1;stroke:none;stroke-width:0.53252405;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect821"
+       width="76.199997"
+       height="5.0799999"
+       x="0"
+       y="263.97998" />
+    <rect
+       style="opacity:1;fill:#5bcefa;fill-opacity:1;stroke:none;stroke-width:0.53252405;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect821-3"
+       width="76.199997"
+       height="5.0799999"
+       x="-1.7763568e-15"
+       y="274.13998" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Transfer Bubble">
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.53999996;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m 25.4,17.780052 a 2.5400002,2.5400002 0 0 0 -2.539897,2.539896 2.5400002,2.5400002 0 0 0 1.270206,2.197283 v 5.766573 A 2.5400004,2.5400004 0 0 0 22.860103,30.480052 2.5400004,2.5400004 0 0 0 25.4,33.019948 2.5400004,2.5400004 0 0 0 27.939896,30.480052 2.5400004,2.5400004 0 0 0 26.66969,28.282769 V 22.515681 A 2.5400002,2.5400002 0 0 0 27.939896,20.319948 2.5400002,2.5400002 0 0 0 25.4,17.780052 Z"
+       id="path856-5"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
